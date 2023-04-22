@@ -1,0 +1,20 @@
+This is git text.
+
+Machine Learning:
+
+1.  Supervise Learning 
+    > Feature and Target
+
+2.  Unsupervise Learning 
+    > Feature and no Target
+
+3.  Reinforcement Learning
+    > no feature no Target
+
+Feature:
+
+Target:
+
+sample/observation/tuple/record: 
+
+
